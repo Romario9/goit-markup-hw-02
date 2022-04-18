@@ -180,10 +180,11 @@ color: var(--popular-background-color);
     color: var(--popular-background-color);
 }
 
-
-.footer-mail:hover
-.footer-mail:focus
-.footer-tel:hover
+.footer-street:hover,
+.footer-street:focus,
+.footer-mail:hover,
+.footer-mail:focus,
+.footer-tel:hover,
 .footer-tel:focus {
     color: var(--header-color);
 }
